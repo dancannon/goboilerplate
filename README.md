@@ -1,4 +1,4 @@
-GoNews
+Go Boilerplate
 ======
 
 A boilerplate for developing web applications using Go.
